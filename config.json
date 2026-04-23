@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#7B1F82",
+            "welcome-bonus-bg": "#f2f2f2",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#ffffff",
+            "text": "#000000",
+            "text-black": "#ffffff",
+            "table-head": "#7B1F82",
+            "text-head": "#ffffff",
+            "hero-title-text": "#000000",
+            "welcome-bonus-text": "#ffffff",
+            "yellow": "#ba62c0",
+            "yellow-button": "#410C53",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#7B1F82",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#7B1F82",
+            "faq-label": "#7B1F82",
+            "bg-footer": "#7B1F82",
+            "copyright": "#e7e7d5",
+            "starColor": "#fff700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6625"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6626",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino De Saint-Jean-De-Monts"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6627",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino De Saint-Jean-De-Monts"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino De Saint-Jean-De-Monts",
+                    "title": "Casino JOA de Saint-Jean-de-Monts : casino en bord de mer en Vendée",
+                    "description": "Découvrez le Casino JOA de Saint-Jean-de-Monts sur la côte vendéenne avec une ouverture quotidienne, des machines à sous dès 1 centime, des jeux de table, le restaurant Le Comptoir JOA, des bars, des animations et des événements privés.",
+                    "canonical": "casino-de-saint-jean-de-monts.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6628",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-saint-jean-de-monts.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6629"
+                },
+                "hero": {
+                    "title": "Bienvenue au Casino JOA de Saint-Jean-de-Monts",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6630",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6631",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Ouvert tous les jours de l’année.",
+                        "Emplacement en bord de mer vendéen.",
+                        "Machines à sous dès un centime.",
+                        "Jeux de table traditionnels et électroniques.",
+                        "Restaurant, bars, événements et réceptions."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino De Saint-Jean-De-Monts App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6632",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino De Saint-Jean-De-Monts App",
+                    "mobileGooglePlayImageTitle": "Casino De Saint-Jean-De-Monts App",
+                    "mobileIosImageTitle": "Casino De Saint-Jean-De-Monts App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "",
+                        "items": [
+                            "Nous sommes ouverts 7 jours sur 7 toute l’année.",
+                            "Notre bar avec vue mer possède une entrée indépendante.",
+                            "Notre salle événementielle offre une vue panoramique sur l’océan."
+                        ],
+                        "description2": "Au Casino JOA de Saint-Jean-de-Monts, nous accueillons nos clients chaque jour, toute l’année, dans un cadre en bord de mer sur la côte vendéenne. Notre casino est situé au 29 Esplanade de la Mer à Saint-Jean-de-Monts, et nos informations officielles soulignent notre emplacement face à une plage exceptionnelle de 8 km.\nNotre offre de jeux est conçue pour offrir à nos clients une véritable variété tout au long de la journée et de la soirée. Nous proposons des machines à sous dès 1 centime, ainsi que des jeux de table traditionnels et électroniques, notamment le Black Jack, la roulette, la Boule, le poker Texas Hold’em, le Black Jack électronique et la Roulette Anglaise électronique.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6634",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino De Saint-Jean-De-Monts",
+                        "description3": "Nous intégrons également la gastronomie et les moments de convivialité à l’expérience. Notre restaurant Comptoir JOA propose une cuisine moderne et raffinée dans une ambiance chaleureuse, et son entrée est indépendante du casino et accessible à tous. Nous disposons aussi de deux espaces bar à Saint-Jean-de-Monts, dont un bar avec terrasse vue mer et un bar au cœur de l’espace de jeux."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeu et plaisir",
+                        "description": "<p>Chez nous, tout est pensé pour faire vivre une expérience de casino complète et entraînante au bord de la mer. Nous réunissons les incontournables du jeu avec nos machines à sous, nos tables traditionnelles et nos versions électroniques, pour que chacun trouve son rythme et son style.<\/p> <br> <p>Dans notre salle, nous proposons notamment le Black Jack, la Boule, le Texas Hold’em Poker, le Black Jack électronique et la Roulette anglaise électronique. Cette variété nous permet d’offrir une ambiance vivante, fluide et accessible, aussi agréable pour une partie spontanée que pour une vraie soirée de divertissement.<\/p> <br> <p>Chez nous, le plaisir se prolonge aussi avec notre Club JOA. Nous permettons à nos membres de cumuler des points, de profiter d’avantages exclusifs, de moments VIP offerts et d’un parcours plus simple grâce à la carte du club. À cela s’ajoute notre agenda d’animations et d’événements, qui donne encore plus de relief à chaque visite.<\/p> <br> <p>Notre établissement réunit plusieurs façons de jouer dans un même lieu, ce qui permet de varier les sensations tout au long de la soirée. Nous créons ainsi une expérience dynamique, avec des espaces pensés pour passer facilement d’une machine à sous à une table ou à un jeu électronique.<\/p> <br> <p>Nous aimons offrir une atmosphère énergique et conviviale, portée par la diversité de notre offre de jeux. Chez nous, chacun peut profiter d’un cadre animé où le divertissement prend toute sa place, dans un environnement soigné et agréable.<\/p> <br> <p>Notre sélection de jeux nous permet de répondre à des envies différentes, que l’on recherche l’intensité des tables ou le rythme des équipements électroniques. Cette complémentarité fait partie des grands atouts de notre casino et donne à chaque visite un caractère unique.<\/p> <br> <p>Avec notre Club JOA, nous valorisons aussi la fidélité de nos visiteurs en rendant l’expérience encore plus engageante. Nous faisons de chaque passage chez nous une occasion de cumuler des avantages et de profiter d’un accompagnement plus fluide au fil du temps.<\/p> <br> <p>Nos événements viennent enrichir l’expérience et donnent à notre établissement une vraie dimension festive. Grâce à cette programmation, nous proposons régulièrement de nouvelles occasions de venir partager un moment de jeu et de plaisir chez nous.<\/p> <br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Élément\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeux proposés\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Machines à sous, Black Jack, Boule, Texas Hold’em Poker, Black Jack électronique, Roulette anglaise électronique\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Club fidélité\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Club JOA avec cumul de points, moments VIP offerts et passage facilité grâce à la carte\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Événements\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Agenda d’événements accessible sur notre site, avec animations et rendez-vous dédiés à notre casino\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Accès et détente",
+                        "description": "<p>Notre établissement vous accueille tous les jours, toute l’année, sur l’Esplanade de la Mer à Saint-Jean-de-Monts. Nous profitons d’un emplacement particulièrement agréable face au littoral vendéen, sur une plage exceptionnelle de 8 km, avec un accès pratique depuis Challans, La Roche-sur-Yon et Nantes.<\/p> <br> <p>Chez nous, la pause gourmande fait pleinement partie de l’expérience. Notre restaurant Comptoir JOA met à l’honneur une cuisine moderne et raffinée dans un cadre chaleureux. Nous proposons aussi un bar côté mer avec terrasse vue mer, idéal pour savourer une boisson rafraîchissante ou un cocktail maison, ainsi qu’un bar au cœur de la salle des jeux pour prolonger la soirée dans une ambiance animée.<\/p> <br> <p>Nous soignons également l’accueil et l’accompagnement. L’entrée de notre restaurant est indépendante du casino et accessible à tous, tout comme notre bar côté mer. En parallèle, le jeu responsable fait partie intégrante de notre ADN, avec des mesures concrètes pour mieux protéger et accompagner nos clients, et notre newsletter permet de suivre facilement nos prochains événements et nouveautés.<\/p> <br> <p>Notre situation en bord de mer donne à chaque visite un caractère particulièrement agréable. Chez nous, il est facile d’associer un moment de détente sur le littoral à une soirée de jeux, de restauration ou de convivialité dans un même environnement.<\/p> <br> <p>Nous accordons une vraie place au confort de nos visiteurs grâce à une offre sur place qui réunit restauration, bar et espaces de jeux. Cette combinaison permet de profiter pleinement de notre établissement, du premier verre jusqu’aux derniers instants de la soirée.<\/p> <br> <p>Notre restaurant apporte une dimension gourmande et élégante à l’expérience, avec une cuisine moderne et raffinée qui accompagne parfaitement une sortie au casino. Nous faisons ainsi de notre adresse un lieu où le plaisir du jeu rencontre celui de la table.<\/p> <br> <p>Nos espaces bar permettent aussi de vivre des moments différents selon les envies. Entre l’atmosphère ouverte du bar côté mer avec terrasse vue mer et l’énergie du bar situé dans la salle des jeux, nous proposons plusieurs façons de profiter de notre établissement.<\/p> <br> <p>Nous mettons également en avant une approche responsable et attentive, afin que chacun puisse vivre le divertissement dans les meilleures conditions. Grâce à nos informations pratiques, à notre accueil quotidien et à notre newsletter, nous rendons chaque visite plus simple, plus claire et plus agréable.<\/p> <br><div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Repère pratique\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Adresse\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    29 Esplanade de la Mer, BP 125, 85160 St-Jean-de-Monts\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Horaires du casino\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Lundi, mardi, mercredi, jeudi et dimanche : 9h30 à 2h ; vendredi : 9h30 à 3h ; samedi, jour férié et veille de jour férié : 9h30 à 4h\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Restaurant\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Comptoir JOA, cuisine moderne et raffinée ; entrée indépendante du casino et accessible à tous\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bars\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bar côté mer avec terrasse vue mer ; bar dans la salle des jeux avec offre snacking sucrée ou salée disponible à tout moment de la journée\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Localisation\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    À 20 min de Challans, à 50 min de La Roche-sur-Yon et à 1h15 de Nantes\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeu responsable\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Chez JOA, le jeu responsable fait partie intégrante de notre ADN, avec des mesures concrètes de protection et d’accompagnement\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe votre casino ?",
+                            "answer": "Nous sommes situés au 29 Esplanade de la Mer BP 125, 85160 Saint-Jean-de-Monts."
+                        },
+                        {
+                            "title": "Quels sont vos horaires d’ouverture ?",
+                            "answer": "Nous sommes ouverts tous les jours toute l’année. Du lundi au jeudi et le dimanche, nous sommes ouverts de 9h30 à 2h00 ; le vendredi, de 9h30 à 3h00 ; et le samedi, les jours fériés et les veilles de jours fériés, de 9h30 à 4h00."
+                        },
+                        {
+                            "title": "Quels jeux proposez-vous ?",
+                            "answer": "Nous proposons des machines à sous, le Black Jack, la Boule, le poker Texas Hold’em, le Black Jack électronique et la Roulette Anglaise électronique."
+                        },
+                        {
+                            "title": "Peut-on visiter votre restaurant sans entrer dans l’espace de jeux ?",
+                            "answer": "Oui. Notre restaurant Comptoir JOA dispose d’une entrée indépendante et est accessible à tous."
+                        },
+                        {
+                            "title": "Organisez-vous des événements privés ou professionnels",
+                            "answer": "Oui. Nous organisons des séminaires, des soirées et des réceptions. Notre salle panoramique avec vue sur l’océan peut accueillir jusqu’à 50 personnes, et notre restaurant peut recevoir jusqu’à 80 convives pour des événements privés ou professionnels."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
